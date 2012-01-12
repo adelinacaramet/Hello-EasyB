@@ -1,0 +1,6 @@
+This is a basic setup of easyB with Java and Maven.
+For the purpose of this initial configuration the TDD
+approach works smoothly.
+
+The easyB maven plugin is in the maven central repository.
+If you use IntelliJ IDEA there is also a plugin for easyB & Groovy.
